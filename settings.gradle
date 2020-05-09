@@ -1,0 +1,2 @@
+rootProject.name='FaceBookV2'
+include ':app'
